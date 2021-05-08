@@ -1,6 +1,6 @@
-A Blockchain and Cryptocurrency network similar to Bitcoin & Dogecoin
+![blockchain-3508589_1920](https://user-images.githubusercontent.com/78291849/117553836-bd397200-b021-11eb-8fa4-ff9ce70b4f46.png)
 
-The blockchain is a revolutionary technology that allows for the secure, distributed, decentralized storage of information. 
+A Blockchain and Cryptocurrency network that allows for the secure, distributed, decentralized storage of information. 
 
 This blockchain project:
 - Is built in the object-oriented programming style.
@@ -10,5 +10,3 @@ This blockchain project:
 - Signs Transactions with cryptography and digital signature.
 - Creates a Transaction Pool for a real-time list of incoming data.
 - Include stransactions in core blocks of the chain.
-
-I hope to work on other blockchains with proof of stake & space concensus.
